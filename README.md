@@ -20,7 +20,8 @@ samples, guidance on mobile development, and a full API reference.
 A mobile lighting control application for a smart home using Flutter, Dart, and ESP32. In the application, turn on, turn off, adjust the brightness, and color temperature of each lamp existing in every room
 >>>>>>> c0a53ebf4754395c8ff5b4a8e72bf4a068248897
 
-Matériel utilisé: plaque d'essai, carte ESP32, Led RGB anode commune, câbles arduino
+Materials used: breadboard, ESP32 board, common anode RGB LED, Arduino cables.
+
 ![WhatsApp Image 2023-08-25 à 13 48 34](https://github.com/ROUA41/Lumiapp/assets/147992127/900827bc-5b74-4709-8a78-9b022bccea7a)
 ![WhatsApp Image 2023-08-25 à 13 48 36](https://github.com/ROUA41/Lumiapp/assets/147992127/225d0cca-1424-450b-bf1e-1ea9058fc12a)
 ![bouton on ](https://github.com/ROUA41/Lumiapp/assets/147992127/6beebdfc-9d7e-400f-96c0-1430b7e14813)
