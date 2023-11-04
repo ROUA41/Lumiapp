@@ -19,3 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 # Lumiapp
 A mobile lighting control application for a smart home using Flutter, Dart, and ESP32. In the application, turn on, turn off, adjust the brightness, and color temperature of each lamp existing in every room
 >>>>>>> c0a53ebf4754395c8ff5b4a8e72bf4a068248897
+
+Matériel utilisé: plaque d'essai, carte ESP32, Led RGB anode commune, câbles arduino
