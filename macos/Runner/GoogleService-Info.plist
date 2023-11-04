@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>228960169224-p9k4t6u0cdrkrlkduv813kh0ni9rtsmq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.228960169224-p9k4t6u0cdrkrlkduv813kh0ni9rtsmq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlEtwHBy6QE52MDJPoqRyiKXWcRXQvTFA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>228960169224</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.lumiapp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>lumiapp-829a7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lumiapp-829a7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:228960169224:ios:35a90139f8371a1e8e90bd</string>
+</dict>
+</plist>

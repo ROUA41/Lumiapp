@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "228960169224",
+    "project_id": "lumiapp-829a7",
+    "storage_bucket": "lumiapp-829a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228960169224:android:7abac631ea5c381e8e90bd",
+        "android_client_info": {
+          "package_name": "com.example.lumiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228960169224-oakihm7064p1jjadlja0gi1imeku05of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrpmawahK9NYJtYLN6RYQufgz2Cpm0twY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228960169224-f2k0pu91ppqod4o7qnias6onp3msp58d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228960169224-78ge43kp3vsqep779mgdm9hl66tldsea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lumiapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
